@@ -1,0 +1,17 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: https://medium.com/@IronCore864
+  - title: "CV"
+    url: https://cv.guotiexin.com/
+  - title: "GitHub"
+    url: https://github.com/ironcore864
+  - title: "Flickr"
+    url: https://flickr.com/photos/ironcore864/
+  - title: "Instagram"
+    url: https://www.instagram.com/ironcore/
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/guotiexin/
+  - title: "Contact"
+    url: /contact/
